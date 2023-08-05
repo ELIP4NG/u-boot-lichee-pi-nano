@@ -5,6 +5,7 @@
 #
 # Normal rules
 #
+make.log
 .*
 *.o
 *.o.*
